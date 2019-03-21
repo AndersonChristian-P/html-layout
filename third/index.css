@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
 
 body {
   width: 100vw;
@@ -30,9 +30,8 @@ header {
 p {
   margin-top: 30px;
   padding: 30px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 75;
-  font-size: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.7rem;
 }
 
 #section2 {
